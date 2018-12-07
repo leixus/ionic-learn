@@ -1,5 +1,5 @@
 {
   "name": "my-ionic",
   "integrations": {},
-  "type": "angular"
+  "type": "ionic-angular"
 }
